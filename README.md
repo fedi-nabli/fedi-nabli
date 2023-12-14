@@ -1,11 +1,13 @@
 <h1 align="center">Hi 👋, I'm Fedi Nabli</h1>
 <h3 align="center">A passionate fullstack developer from Tunisia</h3>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/fedi-nabli)
+
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fedi-nabli-76670219a/)
 
 - 👨‍💻 All of my projects are available at [https://github.com/fedi-nabli?tab=repositories](https://github.com/fedi-nabli?tab=repositories)
 
-- 💬 Ask me about **react, node and docker**
+- 💬 Ask me about **react, node and robotics**
 
 - 📫 How to reach me **fedinabli@gmail.com**
 
