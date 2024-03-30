@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/fedi-nabli?tab=repositories](https://github.com/fedi-nabli?tab=repositories)
 
-- 💬 Ask me about **react, node and robotics**
+- 💬 Ask me about **C/C++, Assembly, Programming and robotics**
 
 - 📫 How to reach me **fedinabli@gmail.com**
 
