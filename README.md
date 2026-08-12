@@ -9,9 +9,9 @@
   </a>
 </p>
 
-- 🔬 Currently building **PHAGE**, a clinical decision-support system that validates antibiogram results against CASFM/EUCAST and CLSI standards — in production use at a Tunisian lab
-- 
-- 🖥️ Also working on **OsmiumOS** (a bare-metal kernel for RISC-V/AArch64), **Cerium** (a systems programming language + compiler), and **Nablyn Aurum** (a custom 12nm ML accelerator design)
+- 🔬 Currently building **PHAGE**, a clinical decision-support system that validates antibiogram results against CASFM/EUCAST and CLSI standards, in production use at a Tunisian lab
+
+- 🖥️ Working on **OsmiumOS** (a bare-metal kernel for RISC-V/AArch64), **Cerium** (a systems programming language + compiler), and **Nablyn Aurum** (a custom 12nm ML accelerator design)
 
 - 🎓 Starting an MSc in Computer Science at **Uppsala University** (Aug 2026), focused on HPC, FPGA, and hardware-software co-design
 
