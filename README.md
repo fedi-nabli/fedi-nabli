@@ -52,7 +52,14 @@
 
 ## 🔧 Stats
 
-<p align="center" >  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=fedi-nabli&show_icons=true&hide_border=true&count_private=true&theme=onedark&icon_color=fad000" alt="Fedi's GitHub Stats">
+</p>
+<p align="center">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fedi-nabli&count_private=true&theme=onedark" alt="fedi-nabli" />
+</p>
+
+<!-- <p align="center" >  
   <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank" rel="noopener noreferrer"> 
     <img  src="https://github-readme-stats-jade-xi-63.vercel.app/api?s%2Cprs&username=fedi-nabli&locale=en&count_private=true&theme=radical&show_icons=true" style="box-shadow: 0 0 20px 0 #d83b7d;"/>
   </a>
@@ -62,7 +69,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats-jade-xi-63.vercel.app/api/top-langs/?username=fedi-nabli&langs_count=8&layout=compact&theme=radical" style="box-shadow: 0 0 20px 0 #d83b7d;" />
-</p>
+</p> -->
 
 <div align="center">
 
